@@ -1,0 +1,18 @@
+{
+  "name": "soundcloud-discordbot",
+  "version": "1.0.0",
+  "description": "Sound Cloud Discord Bot with link support only. Using a public API token",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^11.3.0",
+    "ffmpeg-binaries": "^3.2.2-3",
+    "opusscript": "0.0.6",
+    "request": "^2.83.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Ditto Duck Penguin",
+  "license": "ISC"
+}
